@@ -1,0 +1,176 @@
+html, body
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p,
+
+form, input, div{
+	margin: 0;
+	padding: 0;
+}
+
+font-face {
+	font-family: "MyFont";
+	src: url("Mamelon.otf")
+}
+
+*{
+	font-family:MyFont;
+	box-sizing: border-box;
+}
+
+
+
+
+li{
+  list-style: none;
+}
+
+
+
+	header {
+	  width: 100%;
+	  height: 30px;
+	  padding: 40px 30px;
+	  font-size: 15px;
+	  background-color: white;
+	  display: inline-block;
+	  text-align: center;
+	}
+
+
+	span:hover{
+	  background-color: #66ffff;
+	}
+
+
+
+	.Nokin-logo{
+	  width: 100%;
+	  height: 680px;
+	  background-image: url(top.jpg);
+	  background-size: 100% 680px;
+	}
+
+
+	.Nokin-profile{
+	  width: 100%;
+	  height: 200px;
+	  background-image: url(profile.jpg);
+	  background-size: 100% 200px;
+	}
+
+
+
+	.designer-profile{
+	  width:100%;
+	  height: 680px;
+	  background-image: url(designer.jpg);
+	  background-size: 100% 680px;
+	}
+
+
+	.engineer-profile{
+	  width: 100%;
+	  height: 680px;
+	  background-image: url(engineer.jpg);
+	  background-size: 100% 680px;
+	}
+
+
+	.profile-contents{
+	  display: inline-block;
+	  width: 25%;
+	  height: 400px;
+	  margin: 120px 50px;
+
+	  background-color: red;
+	}
+
+
+
+
+	.box-up{
+	  width: 100%;
+	  height: 280px;
+	}
+
+	.dbox-1{
+	  width: 100%;
+	  height: 280px;
+	  background-image: url(IMG_3325.JPG);
+		background-size: 100% 280px;
+	}
+
+
+	.dbox-2{
+	  width: 100%;
+	  height: 280px;
+	  background-image: url(IMG_3325.JPG);
+		background-size: 100% 280px;
+	}
+
+
+	.dbox-3{
+	  width: 100%;
+	  height: 280px;
+	  background-image: url(IMG_3325.JPG);
+		background-size: 100% 280px;
+	}
+
+
+
+	.ebox-1{
+	  width: 100%;
+	  height: 280px;
+	  background-image: url(IMG_3325.JPG);
+	  background-size: 100% 280px;
+	}
+
+	.ebox-2{
+	  width: 100%;
+	  height: 280px;
+	  background-image: url(IMG_3325.JPG);
+	  background-size: 100% 280px;
+	}
+
+	.ebox-3{
+	  width: 100%;
+	  height: 280px;
+	  background-image: url(IMG_3325.JPG);
+	  background-size: 100% 280px;
+	}
+
+
+
+
+	.box-down{
+	  width: 100%;
+	  height: 120px;
+		background-image: url(card.png);
+		background-size: 100% 120px;
+	}
+
+
+	.position{
+	  font-size: 20px;
+	  padding-top: 15px;
+
+	}
+
+
+	.name{
+	  font-size: 20px;
+	  padding-top: 15px;
+	}
+
+
+
+
+footer{
+		width: 100%;
+		height: 30px;
+		padding: 25px 30px;
+		font-size: 15px;
+		background-color: white;
+		display: inline-block;
+		text-align: center;
+}

@@ -1,0 +1,153 @@
+html, body
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p,
+
+form, input, div{
+	margin: 0;
+	padding: 0;
+}
+
+font-face {
+	font-family: "MyFont";
+	src: url("Mamelon.otf")
+}
+
+*{
+	font-family:MyFont;
+	box-sizing: border-box;
+}
+
+
+
+
+li{
+  list-style: none;
+}
+
+
+.clear{
+	clear: ;
+}
+
+
+
+
+header {
+  width: 100%;
+  height: 30px;
+  padding: 40px 30px;
+  font-size: 15px;
+  background-color: white;
+  display: inline-block;
+  text-align: center;
+}
+
+span:hover{
+  background-color: #66ffff;
+}
+
+
+
+.main{
+  width: 100%;
+  height: 2250px;
+  background-image: url(IMG_3364.JPG);
+  background-size: cover;
+}
+
+.back-logo{
+  width: 100%;
+  height: 1150px;
+
+}
+
+.designer-profile{
+  width: 100%;
+  height: 400px;
+}
+
+.engineer-profile{
+  width: 100%;
+  height: 500px;
+  padding-top: 150px;
+}
+
+.profile-contents{
+  width: 25%;
+  height: 400px;
+  background-color: #bad3ff;
+  float:  left;
+  margin-left: 80px;
+  margin-top: 40px;
+
+
+}
+
+.box-up{
+  width: 100%;
+  height: 280px;
+  background-size: cover;
+
+}
+
+.dbox-1{
+  background-image: url(dsc_5029.jpg);
+	background-size: cover;
+}
+
+.dbox-2{
+  background-image: url(dsp_8564.jpg);
+	background-size: cover;
+}
+.dbox-3{
+  background-image: url(dsp_6900.jpg);
+	background-size: cover;
+}
+
+.ebox-1{
+  background-image: url(IMG_3367.JPG);
+  background-size: cover;
+}
+
+.ebox-2{
+  background-image: url(IMG_3160.JPG);
+  background-size: cover;
+}
+
+.ebox-3{
+  background-image: url(IMG_3325.JPG);
+  background-size: cover;
+}
+
+.box-down{
+  width: 100%;
+  height: 120px;
+	background-image: url(card.png);
+	background-size: cover;
+}
+
+
+.position{
+  font-size: 20px;
+  padding-top: 15px;
+
+}
+
+
+.name{
+  font-size: 20px;
+  padding-top: 15px;
+}
+
+
+
+
+footer{
+  width: 100%;
+  height: 30px;
+  padding: 25px 30px;
+  font-size: 15px;
+  background-color: #ddffff;
+  display: inline-block;
+  text-align: center;
+}

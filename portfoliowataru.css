@@ -1,0 +1,247 @@
+html, body
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p,
+
+form, input, div{
+	margin: 0;
+	padding: 0;
+}
+
+
+
+li{
+	list-style: none;
+}
+
+
+
+
+
+
+
+header{
+	width: 100%;
+	height: 50px;
+	background-color: #ffffdd;
+	
+	
+}
+
+header-logo{
+	width: 50%;
+	height: 50px;
+	float: left;
+}
+
+
+
+.header-list{
+	float: left;
+}
+
+
+.header-list li{
+	float: left;
+	padding-left: 115px;
+}
+
+
+
+.portfolio-wrapper{
+	width: 100%;
+	height: 600px;
+	background-image: url(AYNP6940.JPG);
+	background-size: cover;
+}
+
+
+
+
+.portfolio-caption{
+	width: 100%;
+	height: 600px;
+	font-size: 30px;
+	text-align: center;
+	padding-top: 230px;
+}
+
+
+
+
+
+
+
+
+.profile-wrapper{
+	width: 100%;
+	height: 600px;
+	background-image: url(IMG_0049.JPG);
+	background-size: cover;
+}
+
+
+.profile-caption{
+	width: 100%;
+	height: 100px;
+	text-align: center;
+	font-size: 30px;
+	
+}
+
+
+.profile-details{
+	width: 100%;
+	height: 500px;
+
+}
+
+
+.profile-image{
+	width: 45%;
+	height: 200px;
+	
+	margin-top: 150px;
+	margin-bottom: 150px;
+	float: left;
+	background-image: url(dsc_5029.jpg);
+	background-size: cover;
+	border-radius: 50%;
+}
+
+
+.profile-list{
+	width: 45%;
+	height: 200px;
+	margin-top: 180px;
+	margin-bottom: 150px;
+	float: right;
+}
+
+
+
+
+
+.skills-wrapper{
+	width: 100%;
+	height: 600px;
+	
+	background-image: url(IMG_3359.JPG);
+	background-size: cover;
+}
+
+
+.skills-caption{
+	width: 100%;
+	height: 100px;
+	text-align: center;
+	font-size: 30px;
+	
+}
+
+
+.skills-contents{
+	width: 100%;
+	height: 500px;
+	
+}
+
+
+.skills-box{
+	width: 40%;
+	height: 200px;
+	background-color: red;
+	float: left;
+	margin-left: 10%;
+	margin-top: 100px;
+	border-radius: 50%;
+	
+}
+
+span{
+	color: #000;
+}
+
+
+
+
+
+
+
+.products-wrapper{
+	width: 100%;
+	height: 600px;
+	background-color: #ddffff;
+	
+}
+
+
+.products-caption{
+	width: 100%;
+	height: 100px;
+	font-size: 30px;
+	text-align: center;
+	
+	
+}
+
+
+.products-contents{
+	width: 100%;
+	height: 500px;
+	
+}
+
+.products-box{
+	width: 40%;
+	height: 200px;
+	background-color: white;
+	float: left;
+	margin-left: 10%;
+	margin-top: 100px;
+	border-radius: 30%;
+}
+
+
+.products-type{
+	width: 40%;
+	height: 20px;
+	background-color: #ffc7af;
+	border-radius: 30%;
+	margin-left: 65px;
+}
+
+
+
+
+
+
+
+footer{
+	width: 100%;
+	height: 200px;
+	background-color: #9966cc;
+}
+
+
+.footer-logo{
+	width: 50%;
+	height: 200px;
+	background-image: url(IMG_3357.JPG);
+	background-size: cover;
+	float: left;
+}
+
+
+.footer-detail{
+	width: 50%;
+	height: 200px;
+	background-color: white;
+	float: right;
+	
+
+}
+
+
+
+
+
